@@ -24,9 +24,9 @@ Simple trainer/cheater for Neptunia Re;Birth2. Will make dramatic changes to add
 
 - Stella's Dungeon
   - Click any button; **Tools**, **Weapons**, **Armor**, **Accessories**, and **Star Shards** to get all of those items
-  - Use the given combo boxes to build your customized stone; First for the type, next four for its effects
-  - **Clear Stones:** Clear existing stones in Stella's possession
-  - **Give Stone:** Get custom-built stone. This will fail if you already have 99.
+  - Use the given combo boxes to build your customized stone; First for the type, next four for its effects. Sets current items to Unqeuipped.
+  - **Clear Stones:** Clear existing stones in your possession. Sets current stone to Unqeuipped.
+  - **Give Stone:** Get custom-built stone. This will fail if you already have 99. Sets current stone to Unqeuipped.
 
 ## TODO
 * Improve and optimize code to traditional programming standards and performance
