@@ -23,7 +23,7 @@ Simple trainer/cheater for Neptunia Re;Birth2
   - **Give Items:** Gives all items according to the options checked. Be sure to refresh the Item screen in game by exiting or switching tabs
 
 - Stella's Dungeon
-  - Click buttons **Weapons**, **Armor**, **Accessories**, and **Star Shards** to get all of those items
+  - Click any button; **Tools**, **Weapons**, **Armor**, **Accessories**, and **Star Shards** to get all of those items
   - Use combo boxes to build your customized stone; First for the type, next four for its effects
   - **Clear Stones:** Clear existing stones in Stella's possession
   - **Give Stone:** Get custom-built stone
