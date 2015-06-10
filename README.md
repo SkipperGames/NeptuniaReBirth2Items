@@ -1,5 +1,5 @@
 # NeptuniaReBirth2Items
-Simple trainer/cheater for Neptunia Re;Birth2
+Simple trainer/cheater for Neptunia Re;Birth2. Will make dramatic changes to add more editing support, cheats, and hooks. This project will serve (me) as a base for future works.
 
 [Markdown Basics] (https://help.github.com/articles/markdown-basics/)
 
