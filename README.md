@@ -10,6 +10,7 @@ Simple trainer/cheater for Neptunia Re;Birth2
 
 ## Usage
 *(Keep a working save in case things go weird)*
+
 1. Open Cheat Engine and attach to game process
 2. Scan for Items or Stella's Dungeon base address
 3. Copy and paste either address to the box provided
@@ -19,7 +20,7 @@ Simple trainer/cheater for Neptunia Re;Birth2
   - Check the appropriate boxes for items you would like to have
   - **Save Existing:** Saves your current items from being overwritten and maxed. This feature stacks with **Give Items** so best keep that in mind
   - **Clear Inventory:** Clear your inventory (all 3000 slots)
-  - **Give Items:** Gives all items according to the options checked. Be sure to refresh the Item screen in game by exiting (if you haven't) and then reopening it
+  - **Give Items:** Gives all items according to the options checked. Be sure to refresh the Item screen in game by exiting or switching tabs
 
 - Stella's Dungeon
   - Click buttons **Weapons**, **Armor**, **Accessories**, and **Star Shards** to get all of those items
